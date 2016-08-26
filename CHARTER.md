@@ -23,5 +23,5 @@ certain parts of the project should be completed by, with time for testing and r
 the final whole project.
 
 ## Team Member Constraints
-
+### DaveGwee
 ## Conflict Resolution

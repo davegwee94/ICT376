@@ -24,4 +24,6 @@ the final whole project.
 
 ## Team Member Constraints
 ### DaveGwee
+* Currently doing 3 unit include the final year project, working as part time, have no issues on family,
+no working during day with classes which are tuesday, wednesday and friday, will contribute a fairly enough amount of time and effort on this project.
 ## Conflict Resolution

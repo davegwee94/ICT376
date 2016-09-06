@@ -6,6 +6,15 @@
 * Kaito Kamiyama (31526732)
 
 ## Project Description
+* An app that will merge contacts from various sources. The user will include or disclude sources 
+such as sdcard, sim card, internal storage, etc, and choose which contacts to merge; or have 
+likely merge candidates automatically selected. They will then be guided through any user input 
+needed, such as choosing between conflicting information in a certain field; eg different 
+addresses. The program will take automatic merge measures, such as names that are the same albeit 
+with different capitalization. The user will be able to look at and manually change and fields. A 
+common use would be merging duplicate contacts between a sim card and sd card (eg when switching 
+to new phone) and produce a clean new list without duplicates.
+* Potential names for app; cMerge, Contact Merger 
 
 ## Project Management
 * Version control software (git) and a hosting service (eg github) will be used to maintain the 
@@ -24,6 +33,11 @@ the final whole project.
 
 ## Team Member Constraints
 ### DaveGwee
-* Currently doing 3 unit include the final year project, working as part time, have no issues on family,
+* Currently doing 3 units including the final year project, working as part time, have no issues on family,
 no working during day with classes which are tuesday, wednesday and friday, will contribute a fairly enough amount of time and effort on this project.
+
+### Finn Ryan
+* Undertaking 3 units with no other serious sinks for my time.
+
 ## Conflict Resolution
+* Since there are 3 group members, a vote on any contested issues will be used to decide.

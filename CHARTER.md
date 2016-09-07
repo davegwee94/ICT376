@@ -41,7 +41,7 @@ no working during day with classes which are tuesday, wednesday and friday, will
 
 
 ### Kaito Kamiyama
-Currently taking 4 units and working as casual with being called in some what frequently. The classes are distributed within the weeekdays.
+* Currently taking 4 units and working as casual with being called in some what frequently. The classes are distributed within the weeekdays.
 
 ## Conflict Resolution
 * Since there are 3 group members, a vote on any contested issues will be used to decide.

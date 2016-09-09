@@ -2,8 +2,11 @@
 
 ## MEMBERS
 * Finnian Ryan (32207184)
+** finnian_ryan@iinet.net.au
 * Dave Gwee (32529732)
+** email here
 * Kaito Kamiyama (31526732)
+** email here
 
 ## Project Description
 * An app that will merge contacts from various sources. The user will include or disclude sources 
@@ -38,7 +41,6 @@ no working during day with classes which are tuesday, wednesday and friday, will
 
 ### Finn Ryan
 * Undertaking 3 units with no other serious sinks for my time.
-
 
 ### Kaito Kamiyama
 * Currently taking 4 units and working as casual with being called in some what frequently. The classes are distributed within the weeekdays.

@@ -2,11 +2,11 @@
 
 ## MEMBERS
 * Finnian Ryan (32207184)
-** finnian_ryan@iinet.net.au
+ * finnian_ryan@iinet.net.au
 * Dave Gwee (32529732)
-** email here
+ * email here
 * Kaito Kamiyama (31526732)
-** email here
+ * email here
 
 ## Project Description
 * An app that will merge contacts from various sources. The user will include or disclude sources 

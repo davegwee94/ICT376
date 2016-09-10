@@ -19,9 +19,7 @@
 The interface will guide the user through the process of merging a selection of contacts, so each activity will be used sequentially without any back and forth. There are 3 planned activities mirroring 
 the 3 stages of the process; selecting contact sources to merge and where output; deciding on field conflicts & confirming merged data; and confirmation of what has been done.
 #### StartActivity
-Here the user will decide which contact sources to merge contacts from, and which contact database(s) to place them into. Options such as whether to keep or delete originals will be present. A hideable 
-pane, a RecyclerView fragment, will present a list of all contacts from selected sources and allow the user to manually merge specific contacts. On phone screens, this would slide over the base activity 
-fragment, while on larger tablet screens in landscape view, it would slide to fill half the screen. This activity will have a 'start merge' button to move to the next activity.
+Here the user will decide which contact sources to merge contacts from, and which contact database(s) to place them into. Options such as whether to keep or delete originals will be present. A hideable pane, a RecyclerView fragment, will present a list of all contacts from selected sources organised into groups that will be merged together. The user will be able to modify these groups. On phone screens, this would slide over the base activity fragment, while on larger tablet screens in landscape view, it would slide to fill half the screen. This activity will have a 'start merge' button to move to the next activity.
 
 ![alt text](ui_concepts/StartActivity.png "StartActivity UI")
 

@@ -6,7 +6,7 @@
 * Dave Gwee (32529732)
 ** email here
 * Kaito Kamiyama (31526732)
- * email here
+ ** kaitok05@hotmail.com
 
 ## Project Description
 

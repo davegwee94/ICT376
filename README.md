@@ -9,7 +9,7 @@
  ** kaitok05@hotmail.com
 
 ## Project Description
-
+An app that will merge contacts from various sources. The user will include or disclude sources such as sdcard, sim card, internal storage, etc, and choose which contacts to merge; or have likely merge candidates automatically selected. They will then be guided through any user input needed, such as choosing between conflicting information in a certain field; eg different addresses. The program will take automatic merge measures, such as names that are the same albeit with different capitalization. The user will be able to look at and manually change and fields. A common use would be merging duplicate contacts between a sim card and sd card (eg when switching to new phone) and produce a clean new list without duplicates.
 ## PLATFORM
 * We are targeting Android.
 * Minimum version is 4.2 API 17. Lower if we can.

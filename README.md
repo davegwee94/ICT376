@@ -2,13 +2,17 @@
 
 ## TEAM MEMBERS
 * Finnian Ryan (32207184)
- ** finnian_ryan@iinet.net.au
+ * finnian_ryan@iinet.net.au
 * Dave Gwee (32529732)
-** davegwee94@gmail.com
+ * davegwee94@gmail.com
 * Kaito Kamiyama (31526732)
- ** kaitok05@hotmail.com
+ * kaitok05@hotmail.com
 
 ## Project Description
+An app that will merge contacts from various sources. The user will include or disclude sources such as sdcard, sim card, internal storage, etc, and choose which contacts to merge; or have likely merge candidates automatically selected. They will then be guided through any user input needed, such as choosing between conflicting information in a certain field; eg different addresses. The program will take automatic merge measures, such as names that are the same albeit with different capitalization. The user will be able to look at and manually change and fields. A common use would be merging duplicate contacts between a sim card and sd card (eg when switching to new phone) and produce a clean new list without duplicates.
+
+### Potental Names for App
+* cMerge, Contact Merger
 
 ## PLATFORM
 * We are targeting Android.
@@ -16,18 +20,19 @@
 
 ## USER INTERFACE & INTERACTIONS
 ### DESCRIPTION
-The interface will guide the user through the process of merging a selection of contacts, so each activity will be used sequentially without any back and forth. There are 3 planned activities mirroring 
-the 3 stages of the process; selecting contact sources to merge and where output; deciding on field conflicts & confirming merged data; and confirmation of what has been done.
+The interface will guide the user through the process of merging a selection of contacts, so each activity will be used sequentially without any back and forth. There are 3 planned activities mirroring the 3 stages of the process; selecting contact sources to merge and where output; deciding on field conflicts & confirming merged data; and confirmation of what has been done.
 #### StartActivity
 Here the user will decide which contact sources to merge contacts from, and which contact database(s) to place them into. Options such as whether to keep or delete originals will be present. A hideable pane, a RecyclerView fragment, will present a list of all contacts from selected sources organised into groups that will be merged together. The user will be able to modify these groups. On phone screens, this would slide over the base activity fragment, while on larger tablet screens in landscape view, it would slide to fill half the screen. This activity will have a 'start merge' button to move to the next activity.
 
 ![alt text](ui_concepts/StartActivity.png "StartActivity UI")
 
 #### ConfirmActivity
+The user will be guided through each merge group, deciding which info will be used for each field. A single merge group will be shown at once, using fragments for all the necessary fields and information. A 'Next'/'Finish' button will move to the next merge group or final activity if none left. A 'Confirm All' button will allow the user to go with whatever the the program automatically selected, unless there are explicit conflicts of information.
 
-####DetailsActivity
+####FinishActivity
+This activity will simply provide an overview of everything that was done in the merge process.
 
-### CONCEPTS
+![alt text](ui_concepts/OtherActivities.png "Confirm & Finish Activities")
 
 ## DATABASES
 * We will be using the ContactsContract android api class to access the systems internal contacts database.

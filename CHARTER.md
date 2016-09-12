@@ -11,9 +11,6 @@
 ## Project Description
 An app that will merge contacts from various sources. The user will include or disclude sources such as sdcard, sim card, internal storage, etc, and choose which contacts to merge; or have likely merge candidates automatically selected. They will then be guided through any user input needed, such as choosing between conflicting information in a certain field; eg different addresses. The program will take automatic merge measures, such as names that are the same albeit with different capitalization. The user will be able to look at and manually change and fields. A common use would be merging duplicate contacts between a sim card and sd card (eg when switching to new phone) and produce a clean new list without duplicates.
 
-### Potental Names for App
-* cMerge, Contact Merger
-
 ## Project Management
 * Version control software (git) and a hosting service (eg github) will be used to maintain the project.
 * So as to allow the group members to use the project code and resources independently of each other and for whatever purpose upon projects completion; the project will be licensed under a permissive free software license such as BSD or MIT.
@@ -34,6 +31,9 @@ fairly enough amount of time and effort on this project.
 
 ## Conflict Resolution
 * Since there are 3 group members, a vote on any contested issues will be used to decide.
+
+## Agreement
+This document is agreed to by Finnian Ryan, Dave Gwee, and Kaito Kamiyama.
 
 ## NOTE:
 I am using a program, pandoc, to convert github markdown (these .md files) to pdf format. 

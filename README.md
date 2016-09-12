@@ -4,7 +4,7 @@
 * Finnian Ryan (32207184)
  ** finnian_ryan@iinet.net.au
 * Dave Gwee (32529732)
-** email here
+** davegwee94@gmail.com
 * Kaito Kamiyama (31526732)
  ** kaitok05@hotmail.com
 

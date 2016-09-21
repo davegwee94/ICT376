@@ -1,0 +1,2 @@
+#ignore logs and pdfs created by pandoc
+*.log

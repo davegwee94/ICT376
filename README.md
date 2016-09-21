@@ -16,6 +16,7 @@ An app that will merge contacts from various sources. The user will include or d
 * I am however using the newest (or newish) SDK, so all features and libraries should work.
 * Source files from this will likely have to be manually copied back into master, as the gradle build system uses a different file structure.
 * Replicant is a android fork that I use on my phone.
+* LIBRARIES:For RecyclerView to work, it seems I need the android-support-v4.jar (not from appcompat?) and android-support-v7-appcompat.jar (from appcompat) in the libs/ directory. Then project.properties needs to have the recyclerview project file added as lib reference.
 
 ### Potental Names for App
 * cMerge, Contact Merger

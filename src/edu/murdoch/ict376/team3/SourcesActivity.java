@@ -3,7 +3,7 @@ package edu.murdoch.ict376.team3;
 import android.app.Activity;
 import android.os.Bundle;
 
-public class MainActivity extends Activity
+public class SourcesActivity extends Activity
 {
     /** Called when the activity is first created. */
     @Override

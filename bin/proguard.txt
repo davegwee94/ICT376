@@ -1,0 +1,9 @@
+# view res/layout/fragment_recycler.xml #generated:1
+-keep class android.support.v7.widget.RecyclerView { <init>(...); }
+
+# view AndroidManifest.xml #generated:14
+-keep class edu.murdoch.ict376.team3.ContactsListActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:7
+-keep class edu.murdoch.ict376.team3.SourcesActivity { <init>(...); }
+

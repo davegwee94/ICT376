@@ -1,0 +1,20 @@
+/home/finn/android/ICT376/gen/edu/murdoch/ict376/team3/R.java \
+ : /home/finn/android/recyclerview/res/values/dimens.xml \
+/home/finn/android/recyclerview/res/values/attrs.xml \
+/home/finn/android/recyclerview/res/values/ids.xml \
+/home/finn/android/ICT376/res/drawable-ldpi/ic_launcher.png \
+/home/finn/android/ICT376/res/layout/fragment_sources.xml \
+/home/finn/android/ICT376/res/layout/activity_sources.xml \
+/home/finn/android/ICT376/res/layout/activity_contactslist.xml \
+/home/finn/android/ICT376/res/layout/fragment_recycler.xml \
+/home/finn/android/ICT376/res/drawable-hdpi/ic_launcher.png \
+/home/finn/android/ICT376/res/layout-land/activity_sources.xml \
+/home/finn/android/ICT376/res/values/strings.xml \
+/home/finn/android/ICT376/res/drawable-mdpi/ic_launcher.png \
+/home/finn/android/ICT376/res/drawable-xhdpi/ic_launcher.png \
+/home/finn/android/ICT376/res/drawable/border.xml \
+/home/finn/android/ICT376/bin/res/drawable-ldpi/ic_launcher.png \
+/home/finn/android/ICT376/bin/res/drawable-hdpi/ic_launcher.png \
+/home/finn/android/ICT376/bin/res/drawable-mdpi/ic_launcher.png \
+/home/finn/android/ICT376/bin/res/drawable-xhdpi/ic_launcher.png \
+/home/finn/android/ICT376/bin/AndroidManifest.xml \

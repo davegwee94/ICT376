@@ -1,0 +1,27 @@
+/home/finn/android/ICT376/bin/classes.dex : \
+/home/finn/android/ICT376/bin/classes/android/support/v7/recyclerview/R$dimen.class \
+/home/finn/android/ICT376/bin/classes/android/support/v7/recyclerview/R$attr.class \
+/home/finn/android/ICT376/bin/classes/android/support/v7/recyclerview/R$id.class \
+/home/finn/android/ICT376/bin/classes/android/support/v7/recyclerview/R$styleable.class \
+/home/finn/android/ICT376/bin/classes/android/support/v7/recyclerview/R.class \
+/home/finn/android/ICT376/bin/classes/edu/murdoch/ict376/team3/SourcesFragment.class \
+/home/finn/android/ICT376/bin/classes/edu/murdoch/ict376/team3/ContactsListActivity.class \
+/home/finn/android/ICT376/bin/classes/edu/murdoch/ict376/team3/R$dimen.class \
+/home/finn/android/ICT376/bin/classes/edu/murdoch/ict376/team3/BuildConfig.class \
+/home/finn/android/ICT376/bin/classes/edu/murdoch/ict376/team3/Merge.class \
+/home/finn/android/ICT376/bin/classes/edu/murdoch/ict376/team3/ContactsListFragment$Adapter.class \
+/home/finn/android/ICT376/bin/classes/edu/murdoch/ict376/team3/R$layout.class \
+/home/finn/android/ICT376/bin/classes/edu/murdoch/ict376/team3/ContactsListFragment.class \
+/home/finn/android/ICT376/bin/classes/edu/murdoch/ict376/team3/R$attr.class \
+/home/finn/android/ICT376/bin/classes/edu/murdoch/ict376/team3/R$id.class \
+/home/finn/android/ICT376/bin/classes/edu/murdoch/ict376/team3/R$string.class \
+/home/finn/android/ICT376/bin/classes/edu/murdoch/ict376/team3/R$styleable.class \
+/home/finn/android/ICT376/bin/classes/edu/murdoch/ict376/team3/ContactsListFragment$ViewHolder.class \
+/home/finn/android/ICT376/bin/classes/edu/murdoch/ict376/team3/R.class \
+/home/finn/android/ICT376/bin/classes/edu/murdoch/ict376/team3/R$drawable.class \
+/home/finn/android/ICT376/bin/classes/edu/murdoch/ict376/team3/SourcesActivity$1.class \
+/home/finn/android/ICT376/bin/classes/edu/murdoch/ict376/team3/SourcesActivity.class \
+/home/finn/android/ICT376/bin/dexedLibs/classes-4684d4b638f0acc4ff2fa87551a1266a.jar \
+/home/finn/android/ICT376/bin/dexedLibs/android-support-v4-679c08a9ecd6fda5664a49730766daf1.jar \
+/home/finn/android/ICT376/bin/dexedLibs/android-support-v7-recyclerview-8b44c6f2653341d595be55ca5ff1b42a.jar \
+/home/finn/android/ICT376/bin/dexedLibs/android-support-v7-appcompat-49f0f3e1b53c322a7a28800b174d074a.jar \
